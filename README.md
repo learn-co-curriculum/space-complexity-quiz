@@ -74,9 +74,9 @@ end
 </pre>
 
 - O(1)
-  - Exactly! It doesn't matter which integers `a` and `b` are, the space required for this function never grows.
+  - Exactly! It doesn't matter which integers <code>a</code> and <code>b</code> are, the space required for this function never grows.
 - O(n)
-  - Not quite. Is there a difference in the required space if `a` is 5 and `b` is 10, or `a` is 20 and `b` is 30?
+  - Not quite. Is there a difference in the required space if <code>a</code> is 5 and <code>b</code> is 10, or <code>a</code> is 20 and <code>b</code> is 30?
 - O(3)
   - Not quite. Remember, we need to simplify our answer for Big O. Which of the common notations is the better choice?
 - I don't know
